@@ -230,6 +230,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
   * [LLVM Architecture](http://www.aosabook.org/en/llvm.html) - Chapter from the book Architecture of Open Source Applications.
   * [LLVM for Graduate Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html) - Introduction to doing research with the LLVM compiler infrastructure.
+  * [Parsing: a timeline](https://jeffreykegler.github.io/personal/timeline_v3) - A very accurate timeline of parsing techniques, by Jeffrey Kegler.
   * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
   * [Rust Compiler Walk-Through](https://gchp.ie/2016/08/09/rust-compiler-walkthrough-introduction/).
   * [Rust's Incremental Compilation](https://blog.rust-lang.org/2016/09/08/incremental.html).
